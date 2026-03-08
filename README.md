@@ -7,3 +7,9 @@ This file is for practicing Markdown.
 - Item 1
 - Item 2
 - Item 3
+
+### Link
+[GitHub](https://github.com)
+
+### Quote
+> Markdown is easy to use.
